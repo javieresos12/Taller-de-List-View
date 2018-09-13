@@ -24,7 +24,7 @@ public class RegistrarCuadrado extends Activity {
         auxlado= Double.parseDouble(lado.getText().toString());
 
         String operacion= getResources().getString(R.string.area_cuadrado);
-        String lado2= getResources().getString(R.string.lado);
+        String lado2= getResources().getString(R.string.lado)+": ";
         String datos= lado2+auxlado;
 
         auxcuadrado=Metodos.cuadrado(auxlado);

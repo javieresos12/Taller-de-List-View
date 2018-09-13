@@ -35,4 +35,9 @@
         <item>@string/cuadrado</item>
         <item>@string/rectangulo</item>
     </string-array>
+
+    <string-array name="opcionesVolumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+    </string-array>
 </resources>

@@ -1,5 +1,6 @@
 package com.example.javierescobar.tallerlistview;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TableLayout;
@@ -8,7 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-public class Listar extends AppCompatActivity {
+public class Listar extends Activity {
    private TableLayout tabla;
    private ArrayList<Operaciones> operaciones;
 
