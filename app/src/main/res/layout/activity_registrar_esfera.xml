@@ -53,6 +53,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="guardar"
             android:text="@string/calcular"
             android:textSize="18sp" />
 
@@ -61,6 +62,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="limpiar"
             android:text="@string/borrar"
             android:textSize="18sp" />
     </LinearLayout>
@@ -121,6 +123,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"
+            android:onClick="limpiar"
             android:text="@string/ok"
             android:textAlignment="center"
             android:textSize="18sp"
