@@ -16,4 +16,23 @@
     <string name="cilindro">Cilindro</string>
     <string name="opciones">Opciones</string>
     <string name="areas">Areas</string>
+    <string name="area_cuadrado">Area de Cuadrado</string>
+    <string name="area_rectangulo">Area de Rectangulo</string>
+    <string name="volumen_esfera">Volumen de la esfera</string>
+    <string name="volumen_cilindro">Volumen de Cilindro</string>
+    <string name="lado">Lado</string>
+    <string name="guardado">Informacion Guardada exitosamente</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="oprealizadas">operaciones realizadas</string>
+    <string-array name="opciones">
+        <item>@string/areas</item>
+        <item>@string/volumen</item>
+        <item>@string/oprealizadas</item>
+    </string-array>
+
+    <string-array name="opcionesAreas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+    </string-array>
 </resources>

@@ -21,7 +21,8 @@
         <activity android:name=".RegistrarEsfera" />
         <activity android:name=".RegistrarCilindro" />
         <activity android:name=".Areas" />
-        <activity android:name=".Volumnes"></activity>
+        <activity android:name=".Volumnes" />
+        <activity android:name=".Listar"></activity>
     </application>
 
 </manifest>

@@ -18,7 +18,7 @@
         android:typeface="serif" />
 
     <ListView
-        android:id="@+id/IdAreas"
+        android:id="@+id/IdOpcionesAreas"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
