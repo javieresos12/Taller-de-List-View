@@ -40,4 +40,9 @@
         <item>@string/esfera</item>
         <item>@string/cilindro</item>
     </string-array>
+    <string name="error1">Por Favor debe Ingresar el radio</string>
+    <string name="error2">Por Favor debe Ingresar la altura</string>
+    <string name="error3">Por Favor debe Ingresar el lado</string>
+    <string name="error4">Por favor debe ingresar la base</string>
+    <string name="error5">Por favor debe ingresar la altura</string>
 </resources>
