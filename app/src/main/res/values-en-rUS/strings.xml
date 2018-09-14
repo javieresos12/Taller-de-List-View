@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerListView</string>
+    <string name="borrar">"Clean "</string>
+    <string name="ok">ok</string>
+    <string name="radio">radio</string>
+    <string name="esfera">sphere</string>
+    <string name="altura">height</string>
+    <string name="base">base</string>
+    <string name="rectangulo">rectangle</string>
+    <string name="calcular">"calculate "</string>
+    <string name="cuadrado">square</string>
+    <string name="vlado">side value</string>
+    <string name="lado">side</string>
+    <string name="areas">areas</string>
+    <string name="opciones">options</string>
+    <string name="volumen">volume</string>
+    <string name="cilindro">cylinder</string>
+    <string name="operacion">operation</string>
+    <string name="area_cuadrado">square area</string>
+    <string name="area_rectangulo">rectangle area</string>
+    <string name="volumen_esfera">sphere volume</string>
+    <string name="volumen_cilindro">cylinder volume</string>
+    <string name="datos">data</string>
+    <string name="oprealizadas">operations performed</string>
+    <string name="area">area</string>
+    <string name="resultado">result</string>
+    <string name="error1">Please must introduce radio</string>
+    <string name="guardado">"information saved successfully "</string>
+    <string name="error2">Please must introduce the height</string>
+    <string name="error3">Please must introduce side</string>
+    <string name="error4">Please must introduce base</string>
+    <string name="error5">Please must introduce  height</string>
+</resources>
